@@ -1,0 +1,2157 @@
+{
+  "generated_at": "2026-11-11T12:44:39.250Z",
+  "source": "SaaS _ Software Inventory V2.xlsx",
+  "entities": [
+    {
+      "name": "CARDET LTD",
+      "notes": "Main legal entity"
+    },
+    {
+      "name": "Innovade",
+      "notes": "Innovade LI Ltd"
+    },
+    {
+      "name": "Learning Edge",
+      "notes": "Learning Edge / SkillCamp"
+    },
+    {
+      "name": "IoD",
+      "notes": "Institute of Development"
+    }
+  ],
+  "departments": [
+    "All Staff",
+    "Business Development",
+    "Communications",
+    "Design",
+    "Development",
+    "Education",
+    "Events",
+    "IT",
+    "Instructional Design",
+    "Management",
+    "Operations",
+    "People & Culture",
+    "Projects",
+    "Proposals",
+    "Research",
+    "Training & SkillCamp",
+    "Translations"
+  ],
+  "people": [
+    {
+      "kind": "person",
+      "name": "Charalambos (Pambos) Vrasidas"
+    },
+    {
+      "kind": "person",
+      "name": "Theodosis Karageorgakis"
+    },
+    {
+      "kind": "person",
+      "name": "Andreas Kokkalis"
+    },
+    {
+      "kind": "person",
+      "name": "Bokis"
+    },
+    {
+      "kind": "person",
+      "name": "Eria"
+    },
+    {
+      "kind": "person",
+      "name": "Marios P."
+    },
+    {
+      "kind": "person",
+      "name": "Nikolina"
+    },
+    {
+      "kind": "person",
+      "name": "Michaella"
+    },
+    {
+      "kind": "person",
+      "name": "Eleni Nicolaou"
+    },
+    {
+      "kind": "person",
+      "name": "Georgia Prastitou",
+      "email": "georgia.prastitou@cardet.org"
+    },
+    {
+      "kind": "person",
+      "name": "Souroullas"
+    },
+    {
+      "kind": "person",
+      "name": "Vicky"
+    },
+    {
+      "kind": "person",
+      "name": "Penelope"
+    },
+    {
+      "kind": "person",
+      "name": "Andreas Georgiou"
+    },
+    {
+      "kind": "person",
+      "name": "Marinos Papaioakeim"
+    },
+    {
+      "kind": "person",
+      "name": "Demos"
+    },
+    {
+      "kind": "person",
+      "name": "Chrysanthi Konstanti"
+    },
+    {
+      "kind": "person",
+      "name": "Panayiotis Kallis"
+    },
+    {
+      "kind": "person",
+      "name": "Chara"
+    },
+    {
+      "kind": "person",
+      "name": "Renos"
+    },
+    {
+      "kind": "person",
+      "name": "Nikos"
+    },
+    {
+      "kind": "person",
+      "name": "Valentina"
+    },
+    {
+      "kind": "team",
+      "name": "IT Support",
+      "email": "itsupport@cardet.org"
+    },
+    {
+      "kind": "team",
+      "name": "Finance",
+      "email": "finance@cardet.org"
+    },
+    {
+      "kind": "team",
+      "name": "Proposals Team",
+      "email": "proposals@cardet.org"
+    }
+  ],
+  "payment_methods": [
+    {
+      "label": "VISA ••• 2389",
+      "type": "card",
+      "last4": "2389",
+      "entity": "CARDET LTD"
+    },
+    {
+      "label": "VISA ••• 4067",
+      "type": "card",
+      "last4": "4067",
+      "entity": "CARDET LTD"
+    },
+    {
+      "label": "Card ••• 7876",
+      "type": "card",
+      "last4": "7876",
+      "entity": "Innovade",
+      "notes": "Seen on the Innovade ChatGPT charge (AI sheet)"
+    },
+    {
+      "label": "Bank transfer",
+      "type": "bank_transfer",
+      "last4": null,
+      "entity": "CARDET LTD"
+    }
+  ],
+  "vendors": [
+    {
+      "name": "1Password",
+      "website": "1password.com",
+      "match_keywords": "1PASSWORD,AGILEBITS"
+    },
+    {
+      "name": "Almanack",
+      "website": "almanack.ai",
+      "match_keywords": "ALMANACK"
+    },
+    {
+      "name": "Anthropic",
+      "website": "claude.ai",
+      "match_keywords": "ANTHROPIC,CLAUDE.AI"
+    },
+    {
+      "name": "Articulate",
+      "website": "articulate.com",
+      "match_keywords": "ARTICULATE"
+    },
+    {
+      "name": "BypassGPT",
+      "website": "bypassgpt.ai",
+      "match_keywords": "BYPASSGPT"
+    },
+    {
+      "name": "Canva",
+      "website": "canva.com",
+      "match_keywords": "CANVA"
+    },
+    {
+      "name": "Microsoft",
+      "website": "microsoft.com",
+      "match_keywords": "MICROSOFT,MSFT"
+    },
+    {
+      "name": "Cursor (Anysphere)",
+      "website": "cursor.com",
+      "match_keywords": "CURSOR,ANYSPHERE"
+    },
+    {
+      "name": "DeepL",
+      "website": "deepl.com",
+      "match_keywords": "DEEPL"
+    },
+    {
+      "name": "ElevenLabs",
+      "website": "elevenlabs.io",
+      "match_keywords": "ELEVENLABS"
+    },
+    {
+      "name": "Freepik",
+      "website": "freepik.com",
+      "match_keywords": "FREEPIK,FLATICON"
+    },
+    {
+      "name": "Gamma",
+      "website": "gamma.app",
+      "match_keywords": "GAMMA.APP,GAMMA"
+    },
+    {
+      "name": "Genially",
+      "website": "genially.com",
+      "match_keywords": "GENIALLY"
+    },
+    {
+      "name": "Google",
+      "website": "workspace.google.com",
+      "match_keywords": "GEMINI"
+    },
+    {
+      "name": "Grammarly",
+      "website": "grammarly.com",
+      "match_keywords": "GRAMMARLY"
+    },
+    {
+      "name": "Kahoot!",
+      "website": "kahoot.com",
+      "match_keywords": "KAHOOT"
+    },
+    {
+      "name": "LearnWorlds",
+      "website": "learnworlds.com",
+      "match_keywords": "LEARNWORLDS"
+    },
+    {
+      "name": "Owlbot (Lemon Squeezy)",
+      "website": "owlbot.ai",
+      "match_keywords": "LEMON SQUEEZY,LEMONSQUEEZY,OWLBOT"
+    },
+    {
+      "name": "Lordicon",
+      "website": "lordicon.com",
+      "match_keywords": "LORDICON"
+    },
+    {
+      "name": "Mentimeter",
+      "website": "mentimeter.com",
+      "match_keywords": "MENTIMETER"
+    },
+    {
+      "name": "Napkin AI",
+      "website": "napkin.ai",
+      "match_keywords": "NAPKIN"
+    },
+    {
+      "name": "NordVPN",
+      "website": "nordvpn.com",
+      "match_keywords": "NORDVPN,NORD VPN"
+    },
+    {
+      "name": "OpenAI",
+      "website": "openai.com",
+      "match_keywords": "OPENAI,CHATGPT"
+    },
+    {
+      "name": "PeopleHR (Access Group)",
+      "website": "peoplehr.com",
+      "match_keywords": "PEOPLEHR,PEOPLE HR"
+    },
+    {
+      "name": "Powtoon",
+      "website": "powtoon.com",
+      "match_keywords": "POWTOON"
+    },
+    {
+      "name": "RGE Studio (Beefree)",
+      "website": "beefree.io",
+      "match_keywords": "BEEFREE,RGE STUDIO"
+    },
+    {
+      "name": "Bitly (QR Code Generator)",
+      "website": "qr-code-generator.com",
+      "match_keywords": "QRCG,QR CODE GEN,BITLY"
+    },
+    {
+      "name": "Salesforce",
+      "website": "salesforce.com",
+      "match_keywords": "SALESFORCE,NETU"
+    },
+    {
+      "name": "Surfshark",
+      "website": "surfshark.com",
+      "match_keywords": "SURFSHARK"
+    },
+    {
+      "name": "SurveyMonkey",
+      "website": "surveymonkey.com",
+      "match_keywords": "SURVEYMONKEY,MOMENTIVE"
+    },
+    {
+      "name": "Teamwork.com",
+      "website": "teamwork.com",
+      "match_keywords": "TEAMWORK.COM,TEAMWORK"
+    },
+    {
+      "name": "Undetectable AI",
+      "website": "undetectable.ai",
+      "match_keywords": "UNDETECTABLE"
+    },
+    {
+      "name": "VEED",
+      "website": "veed.io",
+      "match_keywords": "VEED"
+    },
+    {
+      "name": "Zoom",
+      "website": "zoom.us",
+      "match_keywords": "ZOOM.US,ZOOM"
+    }
+  ],
+  "subscriptions": [
+    {
+      "key": "1Password",
+      "vendor": "1Password",
+      "product": "1Password",
+      "plan": "Business Plan",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "multi_year",
+      "cycle_months": 24,
+      "cost_amount": 3140,
+      "currency": "USD",
+      "cost_period": "term",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": null,
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": "NGO discount applied",
+      "credentials_location": null,
+      "description": null,
+      "notes": null,
+      "owner": "IT Support",
+      "departments": [
+        "All Staff"
+      ],
+      "seats": [],
+      "cancelled_on": null,
+      "review_reasons": [
+        "Status not set, assumed active"
+      ]
+    },
+    {
+      "key": "Almanack AI",
+      "vendor": "Almanack",
+      "product": "Almanack AI",
+      "plan": "Single License",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "monthly",
+      "cycle_months": 1,
+      "cost_amount": 11.99,
+      "currency": "USD",
+      "cost_period": "month",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": null,
+      "auto_renew": null,
+      "payment_method": "VISA ••• 2389",
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": "AI lesson and education generation tool",
+      "notes": null,
+      "owner": "Charalambos (Pambos) Vrasidas",
+      "departments": [
+        "Education",
+        "Management"
+      ],
+      "seats": [
+        {
+          "person": "Charalambos (Pambos) Vrasidas"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": [
+        "Sheet says cost 0, but the card statement (Apr 2025) shows a 11.99 USD charge"
+      ]
+    },
+    {
+      "key": "Anthropic (Claude.ai)",
+      "vendor": "Anthropic",
+      "product": "Anthropic (Claude.ai)",
+      "plan": "Max Plan & Claude Pro",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "itsupport@cardet.org",
+      "customer_id": null,
+      "billing_email": "itsupport@cardet.org",
+      "billing_cycle": "monthly",
+      "cycle_months": 1,
+      "cost_amount": 1337.04,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": "2026-10-08",
+      "auto_renew": 1,
+      "payment_method": "VISA ••• 2389",
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": "itsupport@cardet.org",
+      "description": "Advanced LLM assistant for coding and analysis",
+      "notes": "Max plan for Devs/Designers (€90/mo) + Claude Pro Pambos (€21.42/mo)",
+      "owner": "Theodosis Karageorgakis",
+      "departments": [
+        "Development",
+        "Management"
+      ],
+      "seats": [
+        {
+          "person": "Theodosis Karageorgakis"
+        },
+        {
+          "person": "Bokis"
+        },
+        {
+          "person": "Charalambos (Pambos) Vrasidas"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "Articulate 360 AI Personal",
+      "vendor": "Articulate",
+      "product": "Articulate 360 AI Personal",
+      "plan": null,
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": null,
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 724,
+      "currency": "USD",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": "2027-11-05",
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": null,
+      "notes": null,
+      "owner": null,
+      "departments": [],
+      "seats": [],
+      "cancelled_on": null,
+      "review_reasons": [
+        "Plan and owner missing",
+        "Status not set, assumed active",
+        "Paying entity missing, assumed CARDET LTD"
+      ]
+    },
+    {
+      "key": "ByPass GPT",
+      "vendor": "BypassGPT",
+      "product": "ByPass GPT",
+      "plan": "Monthly Plan",
+      "entity": "CARDET LTD",
+      "status": "cancelled",
+      "account_name": "CARDET LTD",
+      "account_email": "proposals@cardet.org",
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "monthly",
+      "cycle_months": 1,
+      "cost_amount": 45,
+      "currency": "EUR",
+      "cost_period": "month",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": "2025-05-27",
+      "last_renewal_date": "2025-05-27",
+      "next_renewal_date": null,
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": "proposals@cardet.org",
+      "description": "AI detection and humanizer tool",
+      "notes": "Cancelled on 13.06.2025 (Eria, Marios P.)",
+      "owner": "Eria",
+      "departments": [
+        "Proposals"
+      ],
+      "seats": [
+        {
+          "person": "Eria"
+        }
+      ],
+      "cancelled_on": "2025-06-13",
+      "review_reasons": []
+    },
+    {
+      "key": "Canva Pro",
+      "vendor": "Canva",
+      "product": "Canva Pro",
+      "plan": "Pro Non-Profit",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "comms@cardet.org",
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "free",
+      "cycle_months": null,
+      "cost_amount": 0,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": 10,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": null,
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": "Free (up to 10 free)",
+      "credentials_location": null,
+      "description": "Graphic design software platform",
+      "notes": "Up to 10 free licenses for non-profit, arranged by Nikolina",
+      "owner": "Nikolina",
+      "departments": [
+        "Communications",
+        "Design"
+      ],
+      "seats": [
+        {
+          "person": "Nikolina"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "Copilot 365",
+      "vendor": "Microsoft",
+      "product": "Copilot 365",
+      "plan": "Pro",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "itsupport@cardet.org",
+      "customer_id": null,
+      "billing_email": "finance@cardet.org",
+      "billing_cycle": "monthly",
+      "cycle_months": 1,
+      "cost_amount": null,
+      "currency": "EUR",
+      "cost_period": null,
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": null,
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": null,
+      "notes": "BoC uses 'Premium' which is 16,00 € for first month (+ taxes) and 23,00 € after.",
+      "owner": "Theodosis Karageorgakis",
+      "departments": [],
+      "seats": [
+        {
+          "person": "Theodosis Karageorgakis"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": [
+        "Cost missing"
+      ]
+    },
+    {
+      "key": "Cursor AI",
+      "vendor": "Cursor (Anysphere)",
+      "product": "Cursor AI",
+      "plan": "Pro Plan",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "itsupport@cardet.org",
+      "customer_id": null,
+      "billing_email": "finance@cardet.org",
+      "billing_cycle": "monthly",
+      "cycle_months": 1,
+      "cost_amount": 192,
+      "currency": "USD",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": "2027-02-27",
+      "auto_renew": 1,
+      "payment_method": "VISA ••• 4067",
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": "itsupport@cardet.org",
+      "description": "AI-powered code editor",
+      "notes": null,
+      "owner": "IT Support",
+      "departments": [
+        "Development"
+      ],
+      "seats": [],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "Deepl",
+      "vendor": "DeepL",
+      "product": "Deepl",
+      "plan": "Pro Translations",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 504.1,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": 1,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": "2025-11-27",
+      "next_renewal_date": "2026-11-27",
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": "michaella",
+      "description": "AI and automated translation platform",
+      "notes": "1 license; Shared across CARDET (IOD, UNIC, CARDET360)",
+      "owner": "Michaella",
+      "departments": [
+        "Translations"
+      ],
+      "seats": [
+        {
+          "person": "Michaella"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "ElevenLabs",
+      "vendor": "ElevenLabs",
+      "product": "ElevenLabs",
+      "plan": "Creator Plan",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "itsupport@cardet.org",
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "monthly",
+      "cycle_months": 1,
+      "cost_amount": 72,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": "2025-08-22",
+      "next_renewal_date": "2025-09-22",
+      "auto_renew": null,
+      "payment_method": "VISA ••• 2389",
+      "discount_pct": 50,
+      "discount_note": null,
+      "credentials_location": "itsupport@cardet.org",
+      "description": "AI realistic voice and speech generation",
+      "notes": "Creator plan; 50% discount applied",
+      "owner": "Theodosis Karageorgakis",
+      "departments": [
+        "Design",
+        "Instructional Design"
+      ],
+      "seats": [
+        {
+          "person": "Theodosis Karageorgakis"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": [
+        "Cost \"€72.00 ($11/mo - 50%)\" is inconsistent: check the real yearly amount"
+      ]
+    },
+    {
+      "key": "Freepik & Flaticon",
+      "vendor": "Freepik",
+      "product": "Freepik & Flaticon",
+      "plan": "Annual Subscription",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "design@cardet.org",
+      "customer_id": null,
+      "billing_email": "finance@cardet.org",
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 249.89,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": 1,
+      "last_invoice_no": null,
+      "last_invoice_date": "2026-11-03",
+      "last_renewal_date": "2026-11-03",
+      "next_renewal_date": "2027-10-03",
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": "Visual resources platform for designers and content creators",
+      "notes": "1 license; Billing email updated to finance@cardet.org",
+      "owner": "Eleni Nicolaou",
+      "departments": [
+        "Design"
+      ],
+      "seats": [
+        {
+          "person": "Eleni Nicolaou"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": [
+        "Next renewal (2027-10-03) does not equal last renewal (2026-11-03) + 12 months"
+      ]
+    },
+    {
+      "key": "Gamma App (Georgia & Pambos)",
+      "vendor": "Gamma",
+      "product": "Gamma App",
+      "plan": "Pro Plan",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "georgia.prastitou@cardet.org",
+      "customer_id": null,
+      "billing_email": "georgia.prastitou@cardet.org",
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 360,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": 2,
+      "last_invoice_no": "FB668498-0003",
+      "last_invoice_date": null,
+      "last_renewal_date": "2025-03-12",
+      "next_renewal_date": "2026-03-12",
+      "auto_renew": 1,
+      "payment_method": "VISA ••• 2389",
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": "georgia.prastitou@cardet.org",
+      "description": "AI presentation and document generator",
+      "notes": "2 seats under Georgia & Pambos",
+      "owner": "Georgia Prastitou",
+      "departments": [
+        "Education",
+        "Management"
+      ],
+      "seats": [
+        {
+          "person": "Georgia Prastitou"
+        },
+        {
+          "person": "Charalambos (Pambos) Vrasidas"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "Genially",
+      "vendor": "Genially",
+      "product": "Genially",
+      "plan": "Author / Master Plan",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "itsupport@cardet.org",
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 480,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": "2026-02-04",
+      "next_renewal_date": "2027-02-04",
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": "No (not eligible unless we create a new account)",
+      "credentials_location": "Snipe-IT",
+      "description": "Interactive learning and communication content creation tool, SCORM export",
+      "notes": "Author plan (upgraded for Souroullas & Agritech project - for SCORM export)",
+      "owner": "Souroullas",
+      "departments": [
+        "Education"
+      ],
+      "seats": [
+        {
+          "person": "Souroullas"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "Google Gemini",
+      "vendor": "Google",
+      "product": "Google Gemini",
+      "plan": "Workspace Integration",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "free",
+      "cycle_months": null,
+      "cost_amount": 0,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": null,
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": "Multimodal AI assistant integrated with Google Workspace",
+      "notes": "Included with Google Suite plan",
+      "owner": null,
+      "departments": [
+        "All Staff"
+      ],
+      "seats": [],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "Grammarly",
+      "vendor": "Grammarly",
+      "product": "Grammarly",
+      "plan": "Pro Plan (2 seats)",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 288,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": 2,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": "2025-12-21",
+      "next_renewal_date": "2026-12-21",
+      "auto_renew": 1,
+      "payment_method": "VISA ••• 2389",
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": "AI grammar and writing assistant",
+      "notes": "2 seats: Pambos (€144) and Theodosis (€144)",
+      "owner": "Charalambos (Pambos) Vrasidas",
+      "departments": [
+        "Management",
+        "Instructional Design"
+      ],
+      "seats": [
+        {
+          "person": "Charalambos (Pambos) Vrasidas"
+        },
+        {
+          "person": "Theodosis Karageorgakis"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "Kahoot",
+      "vendor": "Kahoot!",
+      "product": "Kahoot",
+      "plan": "Annual Plan",
+      "entity": "CARDET LTD",
+      "status": "inactive",
+      "account_name": "CARDET LTD",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 587.64,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": "2024-07-25",
+      "next_renewal_date": "2025-07-25",
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": "Interactive learning and quiz platform",
+      "notes": "Not renewed on 25.07.2025",
+      "owner": "Michaella",
+      "departments": [
+        "Education"
+      ],
+      "seats": [
+        {
+          "person": "Michaella"
+        }
+      ],
+      "cancelled_on": "2025-07-25",
+      "review_reasons": []
+    },
+    {
+      "key": "LearnWorlds (CARDET & LE)",
+      "vendor": "LearnWorlds",
+      "product": "LearnWorlds",
+      "plan": "Skillcamp & E-Learning Platform",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD & LE",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "custom",
+      "cycle_months": null,
+      "cost_amount": null,
+      "currency": "EUR",
+      "cost_period": null,
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": null,
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": "Online learning management and course platform",
+      "notes": "Used for skillcamp and e-learning portals\nShared between CARDET LTD and Learning Edge.",
+      "owner": "Renos",
+      "departments": [
+        "Training & SkillCamp"
+      ],
+      "seats": [
+        {
+          "person": "Renos"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": [
+        "Cost marked as \"Custom\""
+      ]
+    },
+    {
+      "key": "Lemon Squeezy / Owlbot",
+      "vendor": "Owlbot (Lemon Squeezy)",
+      "product": "Lemon Squeezy / Owlbot",
+      "plan": "Monthly Subscription",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "finance@cardet.org",
+      "customer_id": null,
+      "billing_email": "finance@cardet.org",
+      "billing_cycle": "monthly",
+      "cycle_months": 1,
+      "cost_amount": 468,
+      "currency": "USD",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": "2026-10-18",
+      "auto_renew": 1,
+      "payment_method": "VISA ••• 2389",
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": "AI chatbot integration tool",
+      "notes": null,
+      "owner": "Finance",
+      "departments": [
+        "IT"
+      ],
+      "seats": [],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "Lordicon",
+      "vendor": "Lordicon",
+      "product": "Lordicon",
+      "plan": "PRO Annually",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": "finance@cardet.org",
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 96,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": "82396139-172006689",
+      "last_invoice_date": "2026-06-10",
+      "last_renewal_date": "2026-06-10",
+      "next_renewal_date": "2027-05-10",
+      "auto_renew": 1,
+      "payment_method": "VISA ••• 2389",
+      "discount_pct": null,
+      "discount_note": "No, they do not offer special pricing",
+      "credentials_location": "Eleni",
+      "description": "Animated icon library to add motion to digital products",
+      "notes": null,
+      "owner": "Eleni Nicolaou",
+      "departments": [
+        "Design"
+      ],
+      "seats": [
+        {
+          "person": "Eleni Nicolaou"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": [
+        "Next renewal (2027-05-10) does not equal last renewal (2026-06-10) + 12 months"
+      ]
+    },
+    {
+      "key": "Mentimeter",
+      "vendor": "Mentimeter",
+      "product": "Mentimeter",
+      "plan": "Educational Basic Plan",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "Charalambos Vrasidas",
+      "account_email": "info@cardet.org",
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 132,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": "#33C5526E-911595",
+      "last_invoice_date": "2026-09-06",
+      "last_renewal_date": "2025-09-06",
+      "next_renewal_date": "2026-09-06",
+      "auto_renew": 0,
+      "payment_method": "VISA ••• 2389",
+      "discount_pct": null,
+      "discount_note": "No, but we are eligible",
+      "credentials_location": "Snipe-IT",
+      "description": "Online presentation & audience engagement tool (polls, quizzes, word clouds)",
+      "notes": "Cost in source sheet noted as $83.88 / $132.00",
+      "owner": "Charalambos (Pambos) Vrasidas",
+      "departments": [
+        "People & Culture",
+        "Training & SkillCamp"
+      ],
+      "seats": [
+        {
+          "person": "Charalambos (Pambos) Vrasidas"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": [
+        "Account is in a personal name (Charalambos Vrasidas)",
+        "Currency unclear: source notes $83.88 / $132.00"
+      ]
+    },
+    {
+      "key": "Napkin AI",
+      "vendor": "Napkin AI",
+      "product": "Napkin AI",
+      "plan": "Plus Subscription",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "itsupport@cardet.org",
+      "customer_id": null,
+      "billing_email": "itsupport@cardet.org",
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 108,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": "IKWDOUKP-0001",
+      "last_invoice_date": "2026-06-10",
+      "last_renewal_date": "2026-06-10",
+      "next_renewal_date": "2027-06-10",
+      "auto_renew": 1,
+      "payment_method": "VISA ••• 2389",
+      "discount_pct": null,
+      "discount_note": "No",
+      "credentials_location": "itsupport@cardet.org",
+      "description": "AI tool to turn text into visual diagrams",
+      "notes": "Tax paid on reverse charge basis",
+      "owner": "Eleni Nicolaou",
+      "departments": [
+        "People & Culture",
+        "Design"
+      ],
+      "seats": [
+        {
+          "person": "Eleni Nicolaou"
+        },
+        {
+          "person": "Valentina"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "NordVPN",
+      "vendor": "NordVPN",
+      "product": "NordVPN",
+      "plan": "VPN Service",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "itsupport@cardet.org",
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 178.36,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": "2024-12-24",
+      "next_renewal_date": "2025-12-24",
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": "itsupport@cardet.org",
+      "description": "Virtual private network service",
+      "notes": null,
+      "owner": "Charalambos (Pambos) Vrasidas",
+      "departments": [
+        "IT"
+      ],
+      "seats": [
+        {
+          "person": "Charalambos (Pambos) Vrasidas"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "OpenAI / ChatGPT (Plus)",
+      "vendor": "OpenAI",
+      "product": "OpenAI / ChatGPT (Plus)",
+      "plan": "Plus Plan",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "monthly",
+      "cycle_months": 1,
+      "cost_amount": 240,
+      "currency": "USD",
+      "cost_period": "year",
+      "seats_purchased": 2,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": null,
+      "auto_renew": 1,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": "Individual conversational AI plan",
+      "notes": "2 individual subscriptions (Pambos & Vicky)",
+      "owner": "Charalambos (Pambos) Vrasidas",
+      "departments": [
+        "Management"
+      ],
+      "seats": [
+        {
+          "person": "Charalambos (Pambos) Vrasidas"
+        },
+        {
+          "person": "Vicky"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": [
+        "Two individual subscriptions, but the cost looks like one ($20/mo)"
+      ]
+    },
+    {
+      "key": "OpenAI / ChatGPT (Pro - Eria)",
+      "vendor": "OpenAI",
+      "product": "OpenAI / ChatGPT (Pro - Eria)",
+      "plan": "Pro Plan",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "horizonproposals@cardet.org",
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "monthly",
+      "cycle_months": 1,
+      "cost_amount": 1236,
+      "currency": "USD",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": null,
+      "auto_renew": 1,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": "Annual Pro access via Goodstack",
+      "credentials_location": null,
+      "description": "High-compute AI model access",
+      "notes": "Annual Pro access via Goodstack",
+      "owner": "Eria",
+      "departments": [
+        "Proposals"
+      ],
+      "seats": [
+        {
+          "person": "Eria"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "OpenAI / ChatGPT (Pro - Nikos)",
+      "vendor": "OpenAI",
+      "product": "OpenAI / ChatGPT (Pro - Nikos)",
+      "plan": "Pro Plan",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "monthly",
+      "cycle_months": 1,
+      "cost_amount": 1236,
+      "currency": "USD",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": null,
+      "auto_renew": 1,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": "High-compute AI model access",
+      "notes": null,
+      "owner": "Nikos",
+      "departments": [
+        "Proposals",
+        "Management"
+      ],
+      "seats": [
+        {
+          "person": "Nikos"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "OpenAI / ChatGPT (Team)",
+      "vendor": "OpenAI",
+      "product": "OpenAI / ChatGPT (Team)",
+      "plan": "Business / TEAM (3 users)",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "itsupport@cardet.org",
+      "customer_id": null,
+      "billing_email": "finance@cardet.org",
+      "billing_cycle": "monthly",
+      "cycle_months": 1,
+      "cost_amount": 288,
+      "currency": "USD",
+      "cost_period": "year",
+      "seats_purchased": 3,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": "2027-05-13",
+      "auto_renew": 1,
+      "payment_method": "VISA ••• 4067",
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": "Conversational AI assistant for team collaboration",
+      "notes": "Users: Devs, Proposals, Kokkalis; moving from standard $30 to Goodstack $20 rate",
+      "owner": "Andreas Kokkalis",
+      "departments": [
+        "IT",
+        "Development",
+        "Proposals"
+      ],
+      "seats": [
+        {
+          "person": "Andreas Kokkalis"
+        },
+        {
+          "person": "Bokis"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "PeopleHR",
+      "vendor": "PeopleHR (Access Group)",
+      "product": "PeopleHR",
+      "plan": "Evo Pro + ATS",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 6096.96,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": "2027-09-12",
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": null,
+      "notes": null,
+      "owner": "Vicky",
+      "departments": [
+        "People & Culture",
+        "Operations"
+      ],
+      "seats": [
+        {
+          "person": "Vicky"
+        },
+        {
+          "person": "Penelope"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "PowToon",
+      "vendor": "Powtoon",
+      "product": "PowToon",
+      "plan": "Annual Plan",
+      "entity": "Innovade",
+      "status": "cancelled",
+      "account_name": "Innovade",
+      "account_email": "admin@innovade.eu",
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 212.73,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": "2024-06-14",
+      "last_renewal_date": "2024-06-14",
+      "next_renewal_date": null,
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": "admin@innovade.eu",
+      "description": "Animated video creation tool",
+      "notes": "Cancelled as of 16.06.2025",
+      "owner": "Andreas Georgiou",
+      "departments": [
+        "Design"
+      ],
+      "seats": [
+        {
+          "person": "Andreas Georgiou"
+        }
+      ],
+      "cancelled_on": "2025-06-16",
+      "review_reasons": []
+    },
+    {
+      "key": "RGE Studio (formerly Beefree",
+      "vendor": "RGE Studio (Beefree)",
+      "product": "RGE Studio (formerly Beefree)",
+      "plan": null,
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": null,
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": null,
+      "cycle_months": null,
+      "cost_amount": null,
+      "currency": "EUR",
+      "cost_period": null,
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": null,
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": null,
+      "notes": null,
+      "owner": null,
+      "departments": [],
+      "seats": [],
+      "cancelled_on": null,
+      "review_reasons": [
+        "Only the name is filled in",
+        "Status not set, assumed active",
+        "Paying entity missing, assumed CARDET LTD"
+      ]
+    },
+    {
+      "key": "QRCG bitly",
+      "vendor": "Bitly (QR Code Generator)",
+      "product": "QRCG bitly",
+      "plan": "Professional (yearly)",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "itsupport@cardet.org",
+      "customer_id": "App-u-18652472",
+      "billing_email": "finance@cardet.org",
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 450,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": "QRCGPRO-2734410",
+      "last_invoice_date": "2026-01-03",
+      "last_renewal_date": "2026-01-03",
+      "next_renewal_date": "2027-01-03",
+      "auto_renew": 1,
+      "payment_method": "VISA ••• 2389",
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": "Snipe-IT",
+      "description": "Generate custom QR Code solutions in seconds, share it with your audience, and instantly access your scan data",
+      "notes": "Alternative noted in sheet: ~270 per year (current 450).",
+      "owner": "Marinos Papaioakeim",
+      "departments": [
+        "Projects"
+      ],
+      "seats": [
+        {
+          "person": "Marinos Papaioakeim"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "SalesForce (CRM & Cloud)",
+      "vendor": "Salesforce",
+      "product": "Salesforce (CRM & Cloud)",
+      "plan": "Foundation Enterprise Edition Power of 10 & Sales Cloud Enterprise",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 2426.76,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": 15,
+      "last_invoice_no": null,
+      "last_invoice_date": "2025-12-30",
+      "last_renewal_date": "2025-12-30",
+      "next_renewal_date": "2026-12-30",
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": "Donation (Power of 10)",
+      "credentials_location": null,
+      "description": "CRM and Enterprise Cloud Computing platform",
+      "notes": "10 Foundation - 5 Sales licenses; Cohesion Policy Programme THALIA 2021-2027",
+      "owner": "Andreas Kokkalis",
+      "departments": [
+        "Business Development",
+        "Proposals"
+      ],
+      "seats": [
+        {
+          "person": "Andreas Kokkalis"
+        },
+        {
+          "person": "Charalambos (Pambos) Vrasidas"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "SalesForce (Support)",
+      "vendor": "Salesforce",
+      "product": "Salesforce (Support via NetU)",
+      "plan": "First Level Support & Solution Implementation",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 2230.36,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": "2025-04-30",
+      "last_renewal_date": "2025-04-30",
+      "next_renewal_date": "2026-04-30",
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": "CRM Implementation & First Level Support",
+      "notes": "Period: 1 May 2025 - 30 April 2026 via NetU",
+      "owner": null,
+      "departments": [
+        "Business Development"
+      ],
+      "seats": [],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "Surfshark",
+      "vendor": "Surfshark",
+      "product": "Surfshark",
+      "plan": "VPN 27 Months",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "multi_year",
+      "cycle_months": 27,
+      "cost_amount": 70,
+      "currency": "EUR",
+      "cost_period": "term",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": "2025-06-19",
+      "next_renewal_date": "2027-09-19",
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": "VPN service for unlimited devices",
+      "notes": "Replaces Kaspersky",
+      "owner": "Andreas Kokkalis",
+      "departments": [
+        "Development",
+        "IT"
+      ],
+      "seats": [
+        {
+          "person": "Andreas Kokkalis"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "SurveyMonkey",
+      "vendor": "SurveyMonkey",
+      "product": "SurveyMonkey",
+      "plan": "Annual Plan Team Advantage",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "survey.monkey@cardet.org",
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 363.03,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": 1,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": "2025-01-07",
+      "next_renewal_date": "2026-01-07",
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": "survey.monkey@cardet.org",
+      "description": "Cloud SaaS survey and form creation platform",
+      "notes": "1 license; Evaluate if needed given Google Forms usage",
+      "owner": "Demos",
+      "departments": [
+        "Projects",
+        "Research"
+      ],
+      "seats": [
+        {
+          "person": "Demos"
+        },
+        {
+          "person": "Chrysanthi Konstanti"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "TeamWork (Grow)",
+      "vendor": "Teamwork.com",
+      "product": "Teamwork (Grow)",
+      "plan": "Grow Plan",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 12233.88,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": 60,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": "2025-03-07",
+      "next_renewal_date": null,
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": 15,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": "Project Management Tool",
+      "notes": "60 licenses; Usability and downgrade assessment completed",
+      "owner": "Andreas Georgiou",
+      "departments": [
+        "Projects"
+      ],
+      "seats": [
+        {
+          "person": "Andreas Georgiou"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": [
+        "Next renewal date missing (calculated from last renewal)"
+      ]
+    },
+    {
+      "key": "Undetectable AI",
+      "vendor": "Undetectable AI",
+      "product": "Undetectable AI",
+      "plan": "Annual Plan",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "proposals@cardet.org",
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 165,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": null,
+      "next_renewal_date": "2026-10-16",
+      "auto_renew": 1,
+      "payment_method": "VISA ••• 2389",
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": "proposals@cardet.org",
+      "description": "AI text humanization and detection tool",
+      "notes": null,
+      "owner": "Proposals Team",
+      "departments": [
+        "Proposals"
+      ],
+      "seats": [],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "Veed",
+      "vendor": "VEED",
+      "product": "Veed",
+      "plan": "Video Editing & Subtitles",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": null,
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 312,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": null,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": "2024-04-12",
+      "next_renewal_date": null,
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": "Online video editing and subtitle generation software",
+      "notes": null,
+      "owner": "Panayiotis Kallis",
+      "departments": [
+        "Design"
+      ],
+      "seats": [
+        {
+          "person": "Panayiotis Kallis"
+        },
+        {
+          "person": "Nikolina"
+        },
+        {
+          "person": "Georgia Prastitou"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": [
+        "Next renewal date missing (calculated from last renewal)"
+      ]
+    },
+    {
+      "key": "Zoom (Events & Webinars)",
+      "vendor": "Zoom",
+      "product": "Zoom (Events & Webinars)",
+      "plan": "Zoom Workplace Pro / Business",
+      "entity": "CARDET LTD",
+      "status": "active",
+      "account_name": "CARDET LTD",
+      "account_email": "events@cardet.org",
+      "customer_id": "50842234",
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 639.6,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": 4,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": "2026-06-16",
+      "next_renewal_date": "2027-06-15",
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": 50,
+      "discount_note": "Approved: 50% via Goodstack (April 2026)",
+      "credentials_location": "Chara has access",
+      "description": "Cloud-based video conferencing platform",
+      "notes": "4 licenses; Main account used for CARDET events and webinars",
+      "owner": "Chara",
+      "departments": [
+        "Events",
+        "Communications"
+      ],
+      "seats": [
+        {
+          "person": "Chara"
+        },
+        {
+          "person": "Charalambos (Pambos) Vrasidas"
+        },
+        {
+          "person": "Vicky"
+        },
+        {
+          "person": "Theodosis Karageorgakis"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    },
+    {
+      "key": "Zoom (Skillcamp / LE)",
+      "vendor": "Zoom",
+      "product": "Zoom (Skillcamp / LE)",
+      "plan": "Zoom Pro",
+      "entity": "Learning Edge",
+      "status": "active",
+      "account_name": "LEARNING EDGE",
+      "account_email": "admin@skill-camp.eu",
+      "customer_id": null,
+      "billing_email": null,
+      "billing_cycle": "annual",
+      "cycle_months": 12,
+      "cost_amount": 149.9,
+      "currency": "EUR",
+      "cost_period": "year",
+      "seats_purchased": 1,
+      "last_invoice_no": null,
+      "last_invoice_date": null,
+      "last_renewal_date": "2025-05-16",
+      "next_renewal_date": "2026-05-15",
+      "auto_renew": null,
+      "payment_method": null,
+      "discount_pct": null,
+      "discount_note": null,
+      "credentials_location": null,
+      "description": "Cloud-based video conferencing platform",
+      "notes": "1 license; Check renewal necessity at beginning of May 2026",
+      "owner": "Renos",
+      "departments": [
+        "Training & SkillCamp"
+      ],
+      "seats": [
+        {
+          "person": "Renos"
+        }
+      ],
+      "cancelled_on": null,
+      "review_reasons": []
+    }
+  ],
+  "tasks": [
+    {
+      "sub": "QRCG bitly",
+      "text": "Add a yearly reminder to clear the QR codes before renewal",
+      "assignee": "Marinos Papaioakeim",
+      "due": "2026-12-01"
+    },
+    {
+      "sub": "QRCG bitly",
+      "text": "Ask Marios whether we prefer payment via bank transfer",
+      "assignee": "Marios P."
+    },
+    {
+      "sub": "QRCG bitly",
+      "text": "Check a cheaper alternative (now 450/yr vs ~180-270/yr)",
+      "assignee": "Andreas Kokkalis",
+      "due": "2026-12-15"
+    },
+    {
+      "sub": "Zoom (Skillcamp / LE)",
+      "text": "Check whether the renewal is still needed",
+      "assignee": "Renos",
+      "due": "2026-05-01"
+    },
+    {
+      "sub": "SurveyMonkey",
+      "text": "Evaluate if still needed given Google Forms usage",
+      "assignee": "Demos",
+      "due": "2025-12-15"
+    },
+    {
+      "sub": "OpenAI / ChatGPT (Team)",
+      "text": "Move from standard $30 to Goodstack $20 per-seat rate",
+      "assignee": "Andreas Kokkalis"
+    },
+    {
+      "sub": "Mentimeter",
+      "text": "Apply for the educational / NGO discount (we are eligible)",
+      "assignee": "Charalambos (Pambos) Vrasidas"
+    },
+    {
+      "sub": "Mentimeter",
+      "text": "Move account from personal name to CARDET",
+      "assignee": "IT Support"
+    },
+    {
+      "sub": "TeamWork (Grow)",
+      "text": "Confirm the 2026 renewal date and amount",
+      "assignee": "Andreas Georgiou"
+    },
+    {
+      "sub": "1Password",
+      "text": "Fill in renewal date, invoice and card used",
+      "assignee": "IT Support"
+    }
+  ],
+  "transactions": [
+    {
+      "date": "2024-12-13",
+      "raw_description": "ΤΕΑΜ · Card Purchase - Foreign",
+      "amount_eur": 22.71,
+      "card_last4": null,
+      "orig_amount": null,
+      "orig_currency": null,
+      "entity": "IoD",
+      "note": "PLUS x 1 · Vicky?",
+      "source": "AI sheet (card statements)"
+    },
+    {
+      "date": "2025-05-19",
+      "raw_description": "OPENAI *CHATGPT SUBSCR OPENAI.COM USA 23.80 USD AUTH 253147 PURCHASE SALE CARD 4*7876 2025-05-17",
+      "amount_eur": 21.39,
+      "card_last4": "7876",
+      "orig_amount": 23.8,
+      "orig_currency": "USD",
+      "entity": "Innovade",
+      "note": "PLUS x 1 · AG?",
+      "source": "AI sheet (card statements)"
+    },
+    {
+      "date": "2025-05-15",
+      "raw_description": "OPENAI *CHATGPT SUBSCR OPENAI.COM USA 150.00 USD AUTH 253707 PURCHASE SALE CARD 4*4067 2025-05-13",
+      "amount_eur": 135.57,
+      "card_last4": "4067",
+      "orig_amount": 150,
+      "orig_currency": "USD",
+      "entity": "CARDET LTD",
+      "note": "TEAM x 5 · (DEV x 2, Eleni Shaili, Georgia Prastitou, Vanessa Symeonidou)",
+      "source": "AI sheet (card statements)"
+    },
+    {
+      "date": "2025-05-06",
+      "raw_description": "OPENAI *CHATGPT SUBSCR OPENAI.COM USA 23.80 USD AUTH 234151 PURCHASE SALE CARD 4*4067 2025-05-05",
+      "amount_eur": 21.11,
+      "card_last4": "4067",
+      "orig_amount": 23.8,
+      "orig_currency": "USD",
+      "entity": "CARDET LTD",
+      "note": "PLUS x 1 · Pambos?",
+      "source": "AI sheet (card statements)"
+    },
+    {
+      "date": "2025-04-29",
+      "raw_description": "OPENAI *CHATGPT SUBSCR OPENAI.COM USA 23.80 USD AUTH 220700 PURCHASE SALE CARD 4*2389 2025-04-27",
+      "amount_eur": 21.04,
+      "card_last4": "2389",
+      "orig_amount": 23.8,
+      "orig_currency": "USD",
+      "entity": "CARDET LTD",
+      "note": "PLUS x 1",
+      "source": "AI sheet (card statements)"
+    },
+    {
+      "date": "2025-04-28",
+      "raw_description": "ALMANACK AI OAKVILLE CAN 11.99 USD AUTH 0P3319 PURCHASE SALE CARD 4*2389 2025-04-25",
+      "amount_eur": 10.6,
+      "card_last4": "2389",
+      "orig_amount": 11.99,
+      "orig_currency": "USD",
+      "entity": "CARDET LTD",
+      "note": "?",
+      "source": "AI sheet (card statements)"
+    },
+    {
+      "date": "2025-04-28",
+      "raw_description": "BYPASSGPT.AI SINGAPORE SGP 49.00 USD AUTH 0G3731 PURCHASE SALE CARD 4*2389 2025-04-25",
+      "amount_eur": 43.32,
+      "card_last4": "2389",
+      "orig_amount": 49,
+      "orig_currency": "USD",
+      "entity": "CARDET LTD",
+      "note": "PROPOSALS",
+      "source": "AI sheet (card statements)"
+    },
+    {
+      "date": "2025-04-23",
+      "raw_description": "ANTHROPIC ANTHROPIC.COM USA 50.00 USD AUTH 250578 PURCHASE SALE CARD 4*2389 2025-04-16",
+      "amount_eur": 44.39,
+      "card_last4": "2389",
+      "orig_amount": 50,
+      "orig_currency": "USD",
+      "entity": "CARDET LTD",
+      "note": "Theodosis, Bokis",
+      "source": "AI sheet (card statements)"
+    },
+    {
+      "date": "2025-03-26",
+      "raw_description": "GAMMA.APP GAMMA.APP USA 125.18 EUR AUTH 294097 PURCHASE SALE CARD 4*2389 2025-03-24",
+      "amount_eur": 125.18,
+      "card_last4": "2389",
+      "orig_amount": 125.18,
+      "orig_currency": "EUR",
+      "entity": "CARDET LTD",
+      "note": "Pambos",
+      "source": "AI sheet (card statements)"
+    },
+    {
+      "date": "2024-12-23",
+      "raw_description": "GRAMMARLY CO*NZN2WUM GRAMMARLY.COM USA 143.99 EUR AUTH 230390 PURCHASE SALE CARD 4*2389 2024-12-19",
+      "amount_eur": 143.99,
+      "card_last4": "2389",
+      "orig_amount": 143.99,
+      "orig_currency": "EUR",
+      "entity": "CARDET LTD",
+      "note": "PRO x 1 · Annual (Pambos)",
+      "source": "AI sheet (card statements)"
+    },
+    {
+      "date": "2024-12-23",
+      "raw_description": "GRAMMARLY CO*IGRWQEU HTTPSWWW.GRAM USA 144.00 EUR AUTH 225503 PURCHASE SALE CARD 4*2389 2024-12-19",
+      "amount_eur": 144,
+      "card_last4": "2389",
+      "orig_amount": 144,
+      "orig_currency": "EUR",
+      "entity": "CARDET LTD",
+      "note": "PRO x 1 · Annual",
+      "source": "AI sheet (card statements)"
+    },
+    {
+      "date": "2025-04-05",
+      "raw_description": "chatgpt subscription  December 2024  - April 2025",
+      "amount_eur": 113.01,
+      "card_last4": null,
+      "orig_amount": null,
+      "orig_currency": null,
+      "entity": "CARDET LTD",
+      "note": "PLUS x 1 · Monthly, Marinos Papaioakeim",
+      "source": "AI sheet (card statements)"
+    }
+  ],
+  "settings": {
+    "fx_rates": "{\"USD\":0.89,\"GBP\":1.17}",
+    "renewal_alert_days": "30",
+    "org_name": "CARDET"
+  }
+}

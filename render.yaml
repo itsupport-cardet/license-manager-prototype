@@ -1,0 +1,22 @@
+# Render Blueprint: one free web service (Node API + built React app + SQLite file).
+# On the free plan the filesystem is ephemeral: the SQLite DB is re-created from
+# seed/data.json on every deploy/restart, which is what we want for a demo.
+services:
+  - type: web
+    name: cardet-license-manager
+    runtime: node
+    plan: free
+    buildCommand: npm ci --include=dev && npm run build
+    startCommand: npm start
+    healthCheckPath: /healthz
+    envVars:
+      - key: NODE_VERSION
+        value: "24"
+      - key: NODE_ENV
+        value: production
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: DEMO_USER
+        sync: false   # set in the Render dashboard
+      - key: DEMO_PASSWORD
+        sync: false   # set in the Render dashboard
