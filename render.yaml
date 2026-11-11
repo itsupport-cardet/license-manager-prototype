@@ -6,7 +6,8 @@ services:
     name: cardet-license-manager
     runtime: node
     plan: free
-    buildCommand: npm ci --include=dev && npm run build
+    # npm install (not npm ci) so the build also works if package-lock.json is missing or slightly out of date
+    buildCommand: npm install --include=dev && npm run build
     startCommand: npm start
     healthCheckPath: /healthz
     envVars:
